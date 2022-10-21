@@ -1,0 +1,1 @@
+import{_ as e,o,c as _}from"./index.183a8af3.js";const s={name:"HomeView"},t={class:"welcome-section"};function c(n,a,d,r,i,p){return o(),_("div",t)}const l=e(s,[["render",c],["__scopeId","data-v-475b5d52"]]);export{l as default};
