@@ -7,8 +7,9 @@
     { 
       "title": "Games", "text": "Here are some games/engines that I made (mostly in C++).", 
       "items": [
-        { "name": "ElJuego", "text": "A mech shoot 'em up made in godot", "link": "https://youtu.be/QidjaJXGX0I", "image": "/assets/images/el_juego.png" },
-        { "name": "NomeDaEngine", "text": "A SDL engine running asteroids", "link": "https://youtu.be/f01YOb0LbNs", "image": "/assets/images/asteroids.png" }
+        { "name": "F90", "text": "A 3D person shooter made with my Bloss1 engine", "link": "https://www.youtube.com/watch?v=Gb9bmYP_0Yg", "image": "/assets/images/f90_menu.png" },
+        { "name": "ElJuego", "text": "A mech shoot 'em up made in Godot", "link": "https://youtu.be/QidjaJXGX0I", "image": "/assets/images/el_juego.png" },
+        { "name": "NomeDaEngine", "text": "A SDL engine running Asteroids", "link": "https://youtu.be/f01YOb0LbNs", "image": "/assets/images/asteroids.png" }
       ]
     },
     { 
