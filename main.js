@@ -1,5 +1,5 @@
 // Import sections
-import sections from "./assets/json/sections.json" assert { type: 'json' };
+import sections from "./assets/json/sections.json" with { type: 'json' };
 
 // Create all sections
 window.onload = () => {
@@ -14,18 +14,18 @@ window.onload = () => {
 
 // Create a section with optional items
 const createSection = (title, text, items) => {
-  
+
   // Section title and text
   // ---------------------------------------------------------------------------
   const section = document.createElement('section');
   section.setAttribute('class', 'section');
-  
+
   const div = document.createElement('div');
-  
+
   const sectionTitle = document.createElement('h2');
   sectionTitle.setAttribute('class', 'section-title');
   sectionTitle.textContent = title;
-  
+
   const sectionText = document.createElement('p');
   sectionText.textContent = text;
 
@@ -44,27 +44,27 @@ const createSection = (title, text, items) => {
   items.forEach(item => {
     const sectionItem = document.createElement('div');
     sectionItem.setAttribute('class', 'section-item');
-  
+
     const itemDescription = document.createElement('div');
     itemDescription.setAttribute('class', 'item-description');
-  
+
     const link = document.createElement('a');
     link.href = item.link;
     link.target = '_blank';
-    
+
     const name = document.createElement('h2');
     name.textContent = item.name;
-    
+
     const text = document.createElement('p');
     text.textContent = item.text;
-    
+
     const image = document.createElement('img');
     image.src = item.image;
     image.alt = '';
-  
+
     link.append(name, text);
     itemDescription.append(link);
-  
+
     sectionItem.append(itemDescription, image);
     sectionItems.append(sectionItem);
   });
