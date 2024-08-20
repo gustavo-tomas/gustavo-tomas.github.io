@@ -1,22 +1,56 @@
 {
-   "sections": [
-    { 
-      "title": "About me", "text": "My name is Gustavo. I like to program and I am interested in 3D graphics and creative coding in general. Here are some of my projects. I hope you like them!", 
+  "sections": [
+    {
+      "title": "About me",
+      "text": "My name is Gustavo. I like to program and I am interested in 3D graphics and creative coding in general. Here are some of my projects. I hope you like them!",
       "items": []
     },
-    { 
-      "title": "Games", "text": "Here are some games/engines that I made (mostly in C++).", 
+    {
+      "title": "Games",
+      "text": "Here are some games/engines that I made (mostly in C++).",
       "items": [
-        { "name": "F90", "text": "A 3D person shooter made with my Bloss1 engine", "link": "https://www.youtube.com/watch?v=Gb9bmYP_0Yg", "image": "/assets/images/f90_menu.png" },
-        { "name": "ElJuego", "text": "A mech shoot 'em up made in Godot", "link": "https://youtu.be/QidjaJXGX0I", "image": "/assets/images/el_juego.png" },
-        { "name": "NomeDaEngine", "text": "A SDL engine running Asteroids", "link": "https://youtu.be/f01YOb0LbNs", "image": "/assets/images/asteroids.png" }
+        {
+          "name": "F90",
+          "text": "A 3D person shooter made with my Bloss1 engine",
+          "link": "https://www.youtube.com/watch?v=Gb9bmYP_0Yg",
+          "image": "/assets/images/f90_menu.png"
+        },
+        {
+          "name": "ElJuego",
+          "text": "A mech shoot 'em up made in Godot",
+          "link": "https://youtu.be/QidjaJXGX0I",
+          "image": "/assets/images/el_juego.png"
+        },
+        {
+          "name": "NomeDaEngine",
+          "text": "A SDL engine running Asteroids",
+          "link": "https://youtu.be/f01YOb0LbNs",
+          "image": "/assets/images/asteroids.png"
+        },
+        {
+          "name": "The Vops",
+          "text": "A devops inspired resource management game made for the build to scale GMTK 2024 game jam",
+          "link": "https://spiritw.itch.io/the-vops",
+          "image": "/assets/images/the_vops.png"
+        }
       ]
     },
-    { 
-      "title": "Artifacts", "text": "These are some other projects that are not directly related to computer graphics.",
+    {
+      "title": "Artifacts",
+      "text": "These are some other projects that are not directly related to computer graphics.",
       "items": [
-        { "name": "Bars", "text": "Polybar and Eww configs for the i3 window manager", "link": "https://github.com/gustavo-tomas/Bars", "image": "/assets/images/eww_deviljho.png" },
-        { "name": "ToDoRust", "text": "A todo list made with Rust and Tauri", "link": "https://youtu.be/QlekOI3SI1Q", "image": "/assets/images/todorust.png" }
+        {
+          "name": "Bars",
+          "text": "Polybar and Eww configs for the i3 window manager",
+          "link": "https://github.com/gustavo-tomas/Bars",
+          "image": "/assets/images/eww_deviljho.png"
+        },
+        {
+          "name": "ToDoRust",
+          "text": "A todo list made with Rust and Tauri",
+          "link": "https://youtu.be/QlekOI3SI1Q",
+          "image": "/assets/images/todorust.png"
+        }
       ]
     }
   ]
