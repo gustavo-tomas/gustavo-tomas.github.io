@@ -10,6 +10,12 @@
       "text": "Here are some games/engines that I made (mostly in C++).",
       "items": [
         {
+          "name": "Magnolia",
+          "text": "A 3D game engine with a Vulkan rendering backend. Written in c++.",
+          "link": "https://github.com/gustavo-tomas/Magnolia",
+          "image": "/assets/images/magnolia_v0.5.0.png"
+        },
+        {
           "name": "F90",
           "text": "A 3D person shooter made with my Bloss1 engine",
           "link": "https://www.youtube.com/watch?v=Gb9bmYP_0Yg",
