@@ -16,26 +16,32 @@
           "image": "/assets/images/magnolia_v0.5.0.png"
         },
         {
+          "name": "Debtale",
+          "text": "A 3D harvesting sim where you grow and sell flowers to pay off debt.",
+          "link": "https://www.youtube.com/watch?v=0oF7VM6ckjs",
+          "image": "/assets/images/harvest_good_ending.png"
+        },
+        {
           "name": "F90",
-          "text": "A 3rd person shooter made with my Bloss1 engine",
+          "text": "A 3rd person shooter made with my Bloss1 engine.",
           "link": "https://www.youtube.com/watch?v=Gb9bmYP_0Yg",
           "image": "/assets/images/f90_menu.png"
         },
         {
           "name": "ElJuego",
-          "text": "A mech shoot 'em up made in Godot",
+          "text": "A mech shoot 'em up made in Godot.",
           "link": "https://youtu.be/QidjaJXGX0I",
           "image": "/assets/images/el_juego.png"
         },
         {
           "name": "NomeDaEngine",
-          "text": "A SDL engine running Asteroids",
+          "text": "A SDL engine running Asteroids.",
           "link": "https://youtu.be/f01YOb0LbNs",
           "image": "/assets/images/asteroids.png"
         },
         {
           "name": "The Vops",
-          "text": "A devops inspired resource management game made for the build to scale GMTK 2024 game jam",
+          "text": "A devops inspired resource management game made for the build to scale GMTK 2024 game jam.",
           "link": "https://spiritw.itch.io/the-vops",
           "image": "/assets/images/the_vops.png"
         }
