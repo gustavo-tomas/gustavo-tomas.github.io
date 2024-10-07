@@ -28,6 +28,12 @@
           "image": "/assets/images/f90_menu.png"
         },
         {
+          "name": "Tick Invasion",
+          "text": "A top down shooter where you fight ticks to save the park.",
+          "link": "https://spiritw.itch.io/tick-invasion",
+          "image": "/assets/images/tick_invasion.png"
+        },
+        {
           "name": "ElJuego",
           "text": "A mech shoot 'em up made in Godot.",
           "link": "https://youtu.be/QidjaJXGX0I",
