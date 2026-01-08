@@ -54,8 +54,20 @@
       ]
     },
     {
+      "title": "Computer Graphics",
+      "text": "Here are some projects focused on computer graphics.",
+      "items": [
+        {
+          "name": "Chroma",
+          "text": "A browser-based tool for learning computer graphics.",
+          "link": "https://github.com/gustavo-tomas/Chroma",
+          "image": "/assets/images/chroma.png"
+        }
+      ]
+    },
+    {
       "title": "Artifacts",
-      "text": "These are some other projects that are not directly related to computer graphics.",
+      "text": "These are some other projects that are not directly related to games or computer graphics.",
       "items": [
         {
           "name": "Bars",
